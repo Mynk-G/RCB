@@ -13,7 +13,6 @@ This project is designed to validate foreign players and wicket keeper players p
 			<artifactId>json</artifactId>
 			<version>20220320</version>
 		</dependency>
-
 		<!-- https://mvnrepository.com/artifact/org.testng/testng -->
 		<dependency>
 			<groupId>org.testng</groupId>
