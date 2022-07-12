@@ -26,3 +26,7 @@ This project is designed to validate foreign players and wicket keeper players p
 4. Create testng.xml file for testcase package.
 	(To create testng.xmk file: right click on testcase package > TestNG > Convert to TestNG)
 5. Run testng.xml file as TestNG Suite.
+
+
+
+git@github.com:Mynk-G/RCB.git

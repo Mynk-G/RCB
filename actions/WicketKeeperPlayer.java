@@ -5,6 +5,10 @@ import org.json.JSONObject;
 
 import helper.JsonSchema;
 
+/*
+*method for getting wicket keeper present in team.
+*/
+
 public class WicketKeeperPlayer extends JsonSchema{
 	
 	public int getWKPlayerCount() {

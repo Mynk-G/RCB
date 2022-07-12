@@ -1,6 +1,9 @@
 package helper;
 
 import org.json.JSONObject;
+/*
+*Declaration and initiating json object.
+*/
 
 public class JsonSchema {
 	

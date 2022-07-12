@@ -5,6 +5,10 @@ import org.json.JSONObject;
 
 import helper.JsonSchema;
 
+/*
+*created method for get foregin player present in team.
+*/
+
 public class ForeignPlayer extends JsonSchema {
 
 	public int getForeginPlayerCount() {
